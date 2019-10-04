@@ -1,5 +1,3 @@
-// process.env.SPOTIFY_API_KEY=
-
 console.log('this is loaded');
 
 exports.spotify = {
