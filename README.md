@@ -1,6 +1,10 @@
 # liri-node-app
-![img]
-(/Users/james/Desktop/code/liri-node-app/Screen Shot 2019-10-07 at 9.33.17 AM.png)
+####Spotify this song returns a song search.
+![img](./screenShot1.png)
+####When a blank search is requested. Liri doesn't know what to do is returned. 
 
-![img]
-(/Users/james/Desktop/code/liri-node-app/Screen Shot 2019-10-07 at 9.34.07 AM.png)
+The movie-this command searches the ombd api and returns the specified results.
+
+The concert-this command searches to see if the band searched has any upcoming shows and displays key parameters. 
+![img](./screenShot2.png)
+
